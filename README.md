@@ -1,4 +1,4 @@
-# dps-challenge
+# DPS Challenge
 
 An AI model based on XGBoost Regressor has been trained on the "Monatszahlen Verkehrsunfälle" Dataset to predict the value using only Year and Month parameters. 
 
